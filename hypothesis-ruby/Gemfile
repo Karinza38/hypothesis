@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'rubocop', '~> 0.51.0'
+gem 'rubocop', '~> 0.52.0'
 gem 'simplecov', '~> 0.15.1'
 gem 'yard', '~> 0.9.12'
 gem 'rake', '>= 10.0', '< 14.0'
